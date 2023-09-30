@@ -1,0 +1,5 @@
+Reader X is reading the value Y
+Write is updating the value as 6
+
+Reader 1 is Reading the Value as 10
+Writer 1 has updated the Value to 11
